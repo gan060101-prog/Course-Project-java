@@ -1,0 +1,4 @@
+﻿build/
+tools/jdk-21/
+*.log
+*.err.log
