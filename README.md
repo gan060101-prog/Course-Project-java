@@ -1,10 +1,6 @@
 # 青原优品电商后台系统
 
-本项目是一个纯 Java SE 实现的青海特色产品电商后台，代码位置：
-
-```text
-C:\Users\21261\Desktop\java大作业
-```
+本项目是一个纯 Java SE 实现的青海特色产品电商后台
 
 系统使用 JDK 自带 `HttpServer`，不依赖 Spring、Maven 或第三方 jar。项目内置独立 JDK 到 `tools\jdk-21`，不会修改本机全局 Java 环境。业务数据保存在 `data\shop-data.bin`，商品图片保存在 `商品图片`，背景轮播图片保存在 `background`。
 
